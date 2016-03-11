@@ -1,0 +1,66 @@
+body {
+	background-color: rgb(104,187,285);
+	font-family: arial;	
+}
+
+header
+{
+	border: 1px solid black;
+	background-color: #7DCDE8;
+	width: 100%;
+	text-align: center;
+	border-radius: 5px;
+	
+	margin-bottom: 10px;
+}
+
+#right-box{
+	float: right;
+	background-color: rgb(9,30,45);
+	border-radius: 5px;
+	height: 1500px;
+}
+
+#experiences-box,#studies-box{
+	background-color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 20px;
+}
+
+.experience,.study{
+	background-color: #08298A;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#left-box{
+	float: left;
+	background-color: rgb(9,30,45);
+	color: white;
+	border-radius: 5px;
+	height: 1500px;
+	padding: 10px;
+
+}
+ #left-box ul li{
+	list-style-type: none;
+	
+}
+img{
+	padding-left: 65px;
+	padding-top: 20px;
+}
+
+footer{
+	
+	display: inline-block;
+	background-color: #7DCDE8;
+	border-radius: 5px;
+	width: 100%;
+	margin-top: 10px;
+
+}
+
+
+
